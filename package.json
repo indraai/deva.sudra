@@ -1,7 +1,7 @@
 {
   "id": "2f9878e1-fd9e-42f3-bc65-3541b5fae5ef",
   "name": "@indra.ai/deva.sudra",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Quinn Michaels",
   "license": "MIT",
   "copyright": "2025",
@@ -70,7 +70,7 @@
         "background": "/assets/devas/sudra/background.png",
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",			
+        "caseid": "FM-20250622-5114",
         "copyright": "©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 4:47:58 AM"
       }
