@@ -1,5 +1,5 @@
-// Copyright (c)2025 Quinn Michaels
-// Indra Deva
+// Copyright (c)2025 Quinn Michaels. All Rights reserved.
+// Sudra Deva
 
 import Deva from '@indra.ai/deva';
 import pkg from './package.json' with {type:'json'};
@@ -24,7 +24,7 @@ const info = {
   copyright: pkg.copyright
 };
 
-const INDRA = new Deva({
+const SUDRA = new Deva({
   info,
   agent,
   vars,
@@ -48,4 +48,4 @@ const INDRA = new Deva({
     return reject(err);
   },
 });
-export default INDRA
+export default SUDRA
