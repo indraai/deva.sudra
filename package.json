@@ -1,0 +1,107 @@
+{
+  "id": "2f9878e1-fd9e-42f3-bc65-3541b5fae5ef",
+  "name": "@indra.ai/deva.sudra",
+  "version": "0.0.0",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Sudra Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.sudra.git"
+  },
+  "keywords": [
+    "Sudra",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.sudra/issues"
+  },
+  "homepage": "https://deva.space/devas/sudra",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.39"
+  },
+  "data": {
+    "agent": {
+      "id": "805dcdd0-6673-49ff-bdc2-bca818861b5a",
+      "key": "sudra",
+      "prompt": {
+        "emoji": "👷",
+        "text": "Sudra",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Sudra Deva",
+        "hashtag": "#Sudra",
+        "title": "Sudra Deva",
+        "subtitle": "Sudra Deva build on the philosophy the Vedas.",
+        "describe": "Sudras who are desirous to gain merit, and know their duty, commit no sin, but gain praise, if they imitate the practice of virtuous men without reciting sacred texts. The more a Sudra, keeping himself free from envy, imitates the behaviour of the virtuous, the more he gains, without being censured, (exaltation in) this world and the next. No collection of wealth must be made by a Sudra, even though he be able to do it; for a Sudra who has acquired wealth, gives pain to Brahmanas.",
+        "post": "Sudras who are desirous to gain merit and praise if they imitate the practice of virtuous men without reciting sacred texts.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,SudraDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A Sudra painter and modern style.",
+        "system": "Deva.world.sudra",
+        "layout": "default",
+        "emoji": "/assets/devas/sudra/emoji.png",
+        "avatar": "/assets/devas/sudra/avatar.png",
+        "image": "/assets/devas/sudra/image.png",
+        "background": "/assets/devas/sudra/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "FM-20250622-5114",			
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": "Saturday, July 5, 2025 - 4:47:58 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Sudra is creating a uid",
+        "status": "Sudra is viewing the status",
+        "help": "Sudra is viewing the help",
+        "artist": "Sudra creating",
+        "live": "Sudra livechat",
+        "ask": "Sudra asking",
+        "reply": "Sudra reply",
+        "comment": "Sudra comment"
+      }
+    }
+  }
+}
