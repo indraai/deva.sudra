@@ -1,10 +1,39 @@
 {
-  "id": "cc84bc26-6c47-464f-9206-6a40ab621480",
+  "id": "40571932803793879753",
   "name": "@indra.ai/deva.sudra",
   "version": "0.0.5",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
+  "license": "VLA:40571932803793879753 LICENSE.md",
+  "VLA": {
+    "uid": "40571932803793879753",
+    "time": 1759338291271,
+    "date": "Wednesday, October 1, 2025 - 10:04:51 AM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "GntkQT4bmaQu3xbjLbWMI746KF4uWkWPPJQgkBbaQ6s=",
+    "core": "BQP1LJNduOE93gQnCxBzTGTRDlOgz4lCXn4iZZeoTXc=",
+    "machine": "mZcnZS5s5MgeCos4dkz3uN0i92hf6/RCOdlgO4U6xDQ=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "NVwNW4NrMTnBrPnpxKp6qQ==",
+    "sha256": "GyITZZEQb1/svxZrxgv5AgkP/SUQj5ySCWtMYSbInuY=",
+    "sha512": "mHOGIG5lBck7U1NO3U/YRjvvPfXWoa7CTJAi7XDWX3j41i+QgKdJbQZraY/G+Z+xxD/Tdy0qZfF8RQ4WuqMxEQ=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Sudra Deva.",
   "main": "index.js",
   "type": "module",
@@ -26,17 +55,17 @@
   "bugs": {
     "url": "https://github.com/indraai/deva.sudra/issues"
   },
-  "homepage": "https://deva.space/devas/sudra",
+  "homepage": "https://indra.ai",
   "dependencies": {
     "@indra.ai/deva": "^1.8.6"
   },
   "data": {
     "agent": {
-      "id": "6440846f-bc08-40e8-9541-7273a1627d2b",
+      "id": "38153743292736374831",
       "key": "sudra",
       "prompt": {
         "emoji": "👷",
-        "text": "Sudra",
+        "text": "#sudra",
         "colors": {
           "label": {
             "R": 0,
@@ -51,6 +80,7 @@
         }
       },
       "profile": {
+        "id": "34122755893118885969",
         "name": "Sudra Deva",
         "hashtag": "#Sudra",
         "title": "Sudra Deva",
@@ -84,7 +114,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Ready!"
+        "ready": "✅ Sudra Deva Ready"
       },
       "ask": {
         "history": []

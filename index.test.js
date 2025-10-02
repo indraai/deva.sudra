@@ -1,19 +1,23 @@
-// Copyright (c)2025 Quinn Michaels
-// Indra Deva test file
+"use strict";
+// Copyright ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:40571932803793879753 LICENSE.md
+
+// Sudra Deva test file
 
 const {expect} = require('chai')
-const :key: = require('./index.js');
+const SudraDeva = require('./index.js');
 
 describe(indra.me.name, () => {
   beforeEach(() => {
-    return indra.init()
+    return SudraDeva.init()
   });
   it('Check the DEVA Object', () => {
-    expect(indra).to.be.an('object');
-    expect(indra).to.have.property('agent');
-    expect(indra).to.have.property('vars');
-    expect(indra).to.have.property('listeners');
-    expect(indra).to.have.property('methods');
-    expect(indra).to.have.property('modules');
+    expect(SudraDeva).to.be.an('object');
+    expect(SudraDeva).to.have.property('agent');
+    expect(SudraDeva).to.have.property('vars');
+    expect(SudraDeva).to.have.property('listeners');
+    expect(SudraDeva).to.have.property('methods');
+    expect(SudraDeva).to.have.property('modules');
   });
 })
