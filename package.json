@@ -50,7 +50,10 @@
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.sudra/issues"
@@ -101,7 +104,8 @@
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
         "caseid": "FM-20250622-5114",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "uid_warning": "No collection of wealth must be made by a Sudra, even though he be able (to do it); for a Sudra who has acquired wealth, gives pain to Brahmanas.",
         "created": "Saturday, July 5, 2025 - 4:47:58 AM"
       }
     },
