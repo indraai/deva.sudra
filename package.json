@@ -60,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.17.0"
+    "@indra.ai/deva": "^1.17.1"
   },
   "data": {
     "agent": {
@@ -104,7 +104,7 @@
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
         "caseid": "FM-20250622-5114",
-        "uid_warning": "No collection of wealth must be made by a Sudra, even though he be able to do it. A Sudra who has acquired wealth, gives pain to Brahmanas.",
+        "uid_warning": "No collection of wealth must be made by a Sudra, even though he be able to do it. A Sudra who has acquired wealth, gives pain to Brahmanas. A Brahmana may seize the goods of a Sudra as the Sudra can have no property.",
         "status": "official",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 4:47:58 AM"
